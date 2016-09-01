@@ -12,7 +12,7 @@ It can shittily fit most parts. I've used this board with SOT-23, SOT-363, SOT-3
 
 ###Can I sell them in my webstore?
 
-The license is officially CC BY-SA, as I didn't want to deal with the hassles of a special license. But I do ask that if you offer them in your webstore, you add a $0.15 US (or approximate it local currancy) surcharge and donate this to your local SPCA or equivalent per board sold.
+The license is officially CC BY-SA, as I didn't want to deal with the hassles of a special license. But I do ask that if you offer them in your webstore, you add a $0.15 US/EUR (or approximate it local currancy) surcharge and donate this to your local SPCA per board sold. If you make a big donation please let me know as it will make me happy.
 
 ###Your RF design sucks.
 
