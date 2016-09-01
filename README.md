@@ -22,4 +22,6 @@ The multi-package area near the microstrip screws up a lot of stuff, but it was 
 
 That is true. It takes like an hour to generate gerbers from the Eagle project files.
 
+##Images of the boards + uses:
+
 ![big old image](mrf_info.jpg)
