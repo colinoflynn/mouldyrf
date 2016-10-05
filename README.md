@@ -29,3 +29,5 @@ That is true. It takes like an hour to generate gerbers from the Eagle project f
 ##Images of the boards + uses:
 
 ![big old image](mrf_infos.jpg)
+
+NOTE: The old version of this image makes reference to patent pending, which was part of what I had in there when talking to people about selling this commercially. There are NO such restrictions. There was a patent application I abandoned, which was mostly done at the time to prevent someone else from applying for one. On the plus side, it strengthens the open-source nature as it effectively notifies the USPTO about this design.
