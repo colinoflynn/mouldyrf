@@ -10,6 +10,10 @@ In 2012 I designed this board for my own use when testing various RF parts. I ha
 
 It can shittily fit most parts. I've used this board with SOT-23, SOT-363, SOT-343, SOT-89, 4-pin plastic, SOIC-8, 0603, 0805, and 1206 parts.
 
+###How do I get them?
+
+Download the two gerber-file zips, and send them to your preferred fab house. Wait. Get boards back. Note the gerbers are slightly crazy and may crash some online gerber file submissions.
+
 ###Can I sell them in my webstore?
 
 The license is officially CC BY-SA, as I didn't want to deal with the hassles of a special license. But I do ask that if you offer them in your webstore, you add a $0.15 US/EUR (or approximate it local currency) surcharge and donate this to your local SPCA per board sold. If you make a big donation please let me know as it will make me happy.
