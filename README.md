@@ -28,4 +28,4 @@ That is true. It takes like an hour to generate gerbers from the Eagle project f
 
 ##Images of the boards + uses:
 
-[mrf_infos.jpg]
+![big old image](mrf_infos.jpg)
